@@ -1,5 +1,5 @@
 # Python-Bisection
-
+"""
 @author: Peyman Karimzadeh
 """
 def bisection_Method (F, a, b, N_Iterations):
