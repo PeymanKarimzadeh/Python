@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Sep 20 21:05:40 2021
+Note:
+This is a rudimentary Python code for bisection method.
+Note: It is not complete and need to be edited 
 
 @author: Peyman Karimzadeh
 """
