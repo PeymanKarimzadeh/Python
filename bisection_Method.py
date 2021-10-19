@@ -2,6 +2,10 @@
 """
 Created on Mon Sep 20 19:57:44 2021
 
+This is a rudimentary Python code for bisection method.
+Note: It is not complete and need to be edited 
+
+
 @author: Peyman Karimzadeh
 """
 def bisection_Method (F, a, b, N_Iterations):
