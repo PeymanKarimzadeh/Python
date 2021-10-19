@@ -2,6 +2,11 @@
 """
 @author: Peyman Karimzadeh
 """
+
+
+
+
+
 def bisection_Method (F, a, b, N_Iterations):
     for iteration in range (1,N_Iterations+1):
         mid=(a+b)/2
@@ -19,7 +24,7 @@ def bisection_Method (F, a, b, N_Iterations):
             print("There is no root or this Method can not dignoise it")
             break
     return mid
-# This is an example
+
 f= lambda x: -x+5
 lower_limit=0
 Upper_limit=22
